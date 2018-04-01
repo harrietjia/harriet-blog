@@ -4,4 +4,4 @@
 这些插件都非常小并且方便,对于改项目的兼容性还有待提升。
 </p>
 
-[博客演示网址](https://harrietjia.github.io/harriet-blog/)
+[博客演示网址](https://harrietjia.github.io/harriet-blog/dist/)
